@@ -68,7 +68,7 @@ Content-Type: application/json
 {
   "title": "HELLO",
   "content": "Hello",
-   "status": "Active"
+   "status": " Desconected"
 }
 
 ### user2 update### PUT user 
